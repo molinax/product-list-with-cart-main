@@ -13,6 +13,7 @@ dist-ssr
 *.local
 style-guide.md
 public/design/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

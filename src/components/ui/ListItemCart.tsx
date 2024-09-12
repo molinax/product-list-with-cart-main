@@ -4,7 +4,7 @@ import RemoveIcon from './icons/RemoveIcon'
 
 interface Props {
   data: DessertCardItem
-  canDeleted: boolean
+  canDeleted?: boolean
 }
 
 const ListItemCart: React.FC<Props> = ({ data, canDeleted = true }) => {
